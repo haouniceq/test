@@ -3,15 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://haouniceq.github.io/test/contacto/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://haouniceq.github.io/test/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://haouniceq.github.io/test/portafolio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://haouniceq.github.io/test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://haouniceq.github.io/test/tags/</loc>
   </url>
   
 </urlset>
